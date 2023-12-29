@@ -1,0 +1,5 @@
+name: rcon
+version: '${project.version}'
+main: com.robsutar.rcon.VelocityRcon
+api-version: '1.20'
+folia-supported: true
